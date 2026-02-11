@@ -17,6 +17,7 @@ Some examples of this utilization:
 - Type: Null -> typenull
 - Maushold - Family of Three -> maushold-familyofthree
 
+## Credits
 All images in this repository are not owned by me, and belong to respective owners including:
 - Nintendo, Gamefreak, Creatures Inc
 - Pokemon Showdown Sprite Resource
